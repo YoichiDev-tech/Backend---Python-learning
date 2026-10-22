@@ -1,3 +1,4 @@
 My personal space for technical notes, explanations
 and learning references as I continue developing my programming skills.
+
 I use it to document what I learn, clarify concepts, and keep useful information for future reference.
