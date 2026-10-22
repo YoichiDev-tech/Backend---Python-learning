@@ -27,7 +27,7 @@ to backend development, APIs, automation, and AI.
 - [x] Basic arithmetic and calculations
 - [x] String methods
 - [x] Conditional statements
-- [ ] Loops and data structures
+- [x] Loops and data structures
 - [ ] Functions and modules
 - [ ] Error handling and file handling
 - [ ] Object-oriented programming
