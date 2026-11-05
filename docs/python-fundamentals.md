@@ -108,6 +108,35 @@ Calling `round(amount, 2)` without assigning or printing the result does not cha
 
 F-strings allow expressions and variables to be embedded directly into strings using `{}`.
 
+## Exercise 5 - Python pizza Order
+
+### Concept practiced
+
+- Nested if statements
+- Using the `elif`
+- Collecting user `input`
+- Using the `f` string
+- Less code to handle an if condition
+
+### Key takeaways
+
+Nested statements are helpful for multiple conditions that come after the main condition.
+
+The use of the `elif` keyword and how useful it is.
+
+## Exercise 6 - Python Rollercoaster
+
+### Concept practiced
+
+- Logical operators (`and`, `or`,`not`)
+- More if statements/conditions
+- Nested statements/conditions
+
+## Key takeaways
+
+A logical operator (written exactly in english), is a special keyword 
+that allows mathematical operations and help the code to make more choices
+
 ### Important distinction
 
 The tip amount, total bill, and amount per person are three different values.
@@ -121,9 +150,11 @@ In real financial applications, `decimal.Decimal` is generally preferable for de
 
 ### Concepts to revisit
 
-- `int()` versus `float()`
+- The `int()` versus `float()`
 - Calculating percentages correctly
 - Operator precedence in arithmetic expressions
 - Rounding and formatting decimal values
 - Handling invalid input and preventing division by zero
 - Using meaningful variable names to distinguish intermediate calculations
+- The `elif` keyword and its use
+- Mathematical operators
